@@ -1,0 +1,32 @@
+p{
+    color: brown;
+    font-size: 50px;
+}
+
+.first{
+    color: blue;
+}
+
+#secound{
+    color: aqua;
+}
+
+div.backgr{
+    background-color: rgb(255, 0, 175);
+    background-image: url('..//pexels-jacob-colvin-1761279.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    background-size: cover;
+    padding: 50px;
+    margin: auto;
+    width: 50%;
+    border-color: rgb(114, 17, 17) rgb(6, 62, 6);
+    border-width: 10px;
+    border-style: solid;
+}
+div.words{
+    width: 50%;
+    margin: auto;
+    padding: 50%;
+}
